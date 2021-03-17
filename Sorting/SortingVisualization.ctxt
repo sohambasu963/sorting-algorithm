@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SortingVisualization
+comment0.text=\r\n\ Creates\ a\ world\ which\ can\ be\ used\ to\ visualize\ sorting\ methods\ by\ arranging\ "blocks"\ on\ \r\n\ the\ screen.\ \ Each\ block\ is\ it's\ own\ object\ and\ has\ a\ value\ associated\ with\ it.\ \ This\ value\r\n\ is\ represented\ visually\ by\ it's\ width\ and\ a\ number\ display.\r\n\ \r\n\ This\ might\ help\ you\ when\ programming\ -\ https\://docs.oracle.com/javase/8/docs/api/java/util/List.html\r\n\ \r\n\ \r\n\ @author\ C.\ Brooks-Prenger\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SortingVisualization()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SortingVisualization.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ displayList()
+comment2.text=\r\n\ Display\ the\ list\ of\ blocks\ on\ the\ screen\ in\ same\ order\ as\ they\ are\ stored\ in\ the\ list\r\n
+comment3.params=
+comment3.target=int\ getMaxOfRange()
+comment3.text=\r\n\ Return\ the\ max\ value\ that\ the\ block\ are\ able\ to\ have\r\n\ \r\n\ @return\ The\ maximum\ integer\ value\ the\ blocks\ are\ allowed\ to\ have\r\n
+comment4.params=
+comment4.target=java.util.List\ getBlockList()
+comment4.text=\r\n\ Return\ the\ list\ of\ blocks\r\n\ \r\n\ @return\ The\ list\ of\ blocks\ to\ be\ sorted\r\n
+numComments=5
